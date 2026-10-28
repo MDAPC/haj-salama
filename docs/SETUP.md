@@ -29,12 +29,14 @@ work too: `.venv\Scripts\python anchor.py episodes/ar01 --lang ar --relief asset
 ## Linux (Ubuntu / Debian / Fedora / Arch)
 
 ```bash
-sudo apt install python3.12 python3.12-venv ffmpeg git     # or dnf / pacman equivalents
+sudo apt install python3.12 python3.12-venv ffmpeg git libegl1 libgl1   # or dnf / pacman equivalents
 python3.12 -m venv .venv && source .venv/bin/activate      # `uv venv -p 3.12` works too
 pip install -r requirements.txt
 python tools/setup.py --blender    # portable Blender 5.2.3 into .tools/ (skip if `blender` is on PATH)
 python tools/setup.py --check
 ```
+
+(`libegl1`/`libgl1` are already on desktop systems; MediaPipe needs them on minimal servers.)
 
 ## macOS (Apple Silicon or Intel)
 

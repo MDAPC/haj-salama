@@ -1,6 +1,7 @@
 name: check
 # Does the pipeline install and run on Windows and Linux? Everything except the Blender render runs
-# on GitHub's machines; the render step needs a GPU (Eevee), so it is tried but may fail there.
+# on GitHub's machines; the render step needs a GPU / OpenGL (Eevee), which GitHub's runners lack,
+# so it is tried but expected to fail there (Blender crashes at GPU start-up).
 on:
   push:
   pull_request:
@@ -22,6 +23,9 @@ jobs:
           python-version: "3.12"
       - name: ffmpeg
         uses: FedericoCarboni/setup-ffmpeg@v3
+      - name: Graphics libraries MediaPipe loads (Linux)
+        if: runner.os == 'Linux'
+        run: sudo apt-get update && sudo apt-get install -y libegl1 libgl1 libgles2
       - name: Python packages
         run: python -m pip install -r requirements.txt
       - name: Compile every script
