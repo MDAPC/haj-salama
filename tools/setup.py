@@ -55,7 +55,7 @@ STOCK = {  # motion-capture references, CC BY (see assets/capture/stock/SOURCE.m
     "wales.webm": COMMONS + "Interview_with_Jimmy_Wales_at_Wikimania_2025_Nairobi.webm",
 }
 PACKAGES = {"numpy": "numpy", "PIL": "pillow", "cv2": "opencv-python", "onnxruntime": "onnxruntime",
-            "rembg": "rembg", "piper": "piper-tts", "mediapipe": "mediapipe"}
+            "rembg": "rembg", "piper": "piper-tts", "onnx": "piper-tts[alignment] (onnx)", "mediapipe": "mediapipe"}
 
 
 def fetch(url, dest):
