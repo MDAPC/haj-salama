@@ -1,0 +1,17 @@
+# Text files keep LF in the repository; Windows checkouts may convert, binaries are never touched
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.mp4 binary
+*.webm binary
+*.wav binary
+*.npy binary
+*.blend binary
+*.onnx binary
+*.task binary

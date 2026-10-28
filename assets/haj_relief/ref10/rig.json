@@ -1,0 +1,636 @@
+{
+  "_doc": "Landmarks on refs/ref10.png (1367x1151 px). Mouth curves are the inner edges of the opening, left to right, sharing the corners.",
+  "eyes": [
+    {
+      "center": [
+        723,
+        371
+      ],
+      "axes": [
+        29,
+        17
+      ],
+      "angle": 4,
+      "iris": [
+        731,
+        371
+      ],
+      "iris_r": 14.5
+    },
+    {
+      "center": [
+        819,
+        380
+      ],
+      "axes": [
+        30,
+        18
+      ],
+      "angle": 6,
+      "iris": [
+        823,
+        380
+      ],
+      "iris_r": 13.5
+    }
+  ],
+  "jaw_drop": 24,
+  "arm_point": [
+    440,
+    800
+  ],
+  "face_center": [
+    760,
+    470
+  ],
+  "face_radius": [
+    125,
+    200
+  ],
+  "gesture_arm": {
+    "elbow": [
+      480,
+      880
+    ],
+    "center": [
+      410,
+      640
+    ],
+    "radius": [
+      190,
+      260
+    ]
+  },
+  "green_above": 870,
+  "face_box": [
+    560,
+    200,
+    960,
+    720
+  ],
+  "_gestures": "variants with gesture = what it is; via = the in-between painting it passes through from/to clasped hands",
+  "_mouth_space": "where each painted mouth sits: open 0..1 (1 = widest painting), spread -1 (narrow) .. 1 (wide), round 0..1",
+  "mouth_space": {
+    "closed": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "mb": [
+      0.0,
+      -0.1,
+      0.0
+    ],
+    "slight": [
+      0.15,
+      0.0,
+      0.0
+    ],
+    "teeth": [
+      0.24,
+      0.2,
+      0.0
+    ],
+    "f": [
+      0.2,
+      0.1,
+      0.0
+    ],
+    "ee": [
+      0.45,
+      0.6,
+      0.0
+    ],
+    "l": [
+      0.5,
+      0.1,
+      0.0
+    ],
+    "o": [
+      0.45,
+      -0.4,
+      0.6
+    ],
+    "oo": [
+      0.25,
+      -0.8,
+      1.0
+    ],
+    "a": [
+      0.65,
+      0.1,
+      0.0
+    ],
+    "a_wide": [
+      1.0,
+      0.0,
+      0.1
+    ],
+    "_gap_fill": "added from the gaps a traced real speaker left between paintings (mouth_gaps.png)",
+    "pout": [
+      0.05,
+      -0.35,
+      0.3
+    ],
+    "mid_narrow": [
+      0.42,
+      -0.3,
+      0.1
+    ],
+    "slight_wide": [
+      0.1,
+      0.65,
+      0.0
+    ],
+    "pursed": [
+      0.03,
+      -0.85,
+      0.85
+    ],
+    "o_small": [
+      0.25,
+      -0.65,
+      0.65
+    ]
+  },
+  "patch_masks": {
+    "mouth": [
+      {
+        "center": [
+          749,
+          596
+        ],
+        "radius": [
+          98,
+          62
+        ]
+      }
+    ],
+    "left_hand": [
+      {
+        "center": [
+          780,
+          1000
+        ],
+        "radius": [
+          120,
+          75
+        ]
+      }
+    ],
+    "mouth_big": [
+      {
+        "center": [
+          749,
+          628
+        ],
+        "radius": [
+          106,
+          102
+        ]
+      }
+    ],
+    "body": [
+      {
+        "rect": [
+          180,
+          380,
+          1366,
+          1110
+        ]
+      },
+      {
+        "center": [
+          705,
+          560
+        ],
+        "radius": [
+          165,
+          150
+        ],
+        "sub": true
+      },
+      {
+        "rect": [
+          575,
+          400,
+          860,
+          640
+        ],
+        "sub": true
+      },
+      {
+        "center": [
+          770,
+          420
+        ],
+        "radius": [
+          250,
+          330
+        ],
+        "sub": true
+      },
+      {
+        "rect": [
+          880,
+          380,
+          1105,
+          790
+        ],
+        "sub": true
+      },
+      {
+        "rect": [
+          540,
+          380,
+          640,
+          760
+        ],
+        "sub": true
+      }
+    ],
+    "eyes": [
+      {
+        "center": [
+          722,
+          368
+        ],
+        "radius": [
+          44,
+          32
+        ]
+      },
+      {
+        "center": [
+          820,
+          378
+        ],
+        "radius": [
+          46,
+          34
+        ]
+      }
+    ]
+  },
+  "variants": {
+    "closed": {
+      "file": "../../haj_salama/gen/mouth_closed_g1.jpeg",
+      "region": "mouth"
+    },
+    "a": {
+      "file": "../../haj_salama/gen/mouth_a_g2.jpeg",
+      "region": "mouth"
+    },
+    "ee": {
+      "file": "../../haj_salama/gen/mouth_ee_g1.jpeg",
+      "region": "mouth"
+    },
+    "oo": {
+      "file": "../../haj_salama/gen/mouth_oo_g1.jpeg",
+      "region": "mouth"
+    },
+    "f": {
+      "file": "../../haj_salama/gen/mouth_f_g1.jpeg",
+      "region": "mouth"
+    },
+    "mb": {
+      "file": "../../haj_salama/gen/mouth_mb_g1.jpeg",
+      "region": "mouth"
+    },
+    "l": {
+      "file": "../../haj_salama/gen/mouth_l_g1.jpeg",
+      "region": "mouth"
+    },
+    "o": {
+      "file": "../../haj_salama/gen/mouth_o_g1.jpeg",
+      "region": "mouth"
+    },
+    "a_wide": {
+      "file": "../../haj_salama/gen/mouth_awide_g1.jpeg",
+      "region": "mouth_big",
+      "feather": 8
+    },
+    "slight": {
+      "file": "../../haj_salama/gen/mouth_slight_g1.jpeg",
+      "region": "mouth"
+    },
+    "teeth": {
+      "file": "../../haj_salama/gen/mouth_basefull_g1.jpeg",
+      "region": "mouth"
+    },
+    "pout": {
+      "file": "../../haj_salama/gen/mouth_pout_g1.jpeg",
+      "region": "mouth"
+    },
+    "mid_narrow": {
+      "file": "../../haj_salama/gen/mouth_midnarrow_g1.jpeg",
+      "region": "mouth"
+    },
+    "slight_wide": {
+      "file": "../../haj_salama/gen/mouth_slightwide_g1.jpeg",
+      "region": "mouth"
+    },
+    "pursed": {
+      "file": "../../haj_salama/gen/mouth_pursed_g1.jpeg",
+      "region": "mouth"
+    },
+    "o_small": {
+      "file": "../../haj_salama/gen/mouth_osmall_g1.jpeg",
+      "region": "mouth"
+    },
+    "eyes_closed": {
+      "file": "../../haj_salama/gen/eyes_closed_g1.jpeg",
+      "region": "eyes",
+      "feather": 5
+    },
+    "hands_rest": {
+      "file": "../../haj_salama/gen/hands_rest_g1.jpeg",
+      "region": "body",
+      "feather": 4,
+      "hide_green": true,
+      "only_changed": true,
+      "gesture": "idle"
+    },
+    "hand_half": {
+      "file": "../../haj_salama/gen/hand_half_g1.jpeg",
+      "region": "body",
+      "feather": 4,
+      "hide_green": true,
+      "only_changed": true,
+      "left_hand_from": "hand_open",
+      "gesture": "half"
+    },
+    "hand_open": {
+      "file": "../../haj_salama/gen/hand_open_g1.jpeg",
+      "region": "body",
+      "feather": 4,
+      "hide_green": true,
+      "only_changed": true,
+      "gesture": "open",
+      "via": "hand_half"
+    },
+    "hand_point": {
+      "file": "../../haj_salama/gen/hand_point_g1.jpeg",
+      "region": "body",
+      "feather": 4,
+      "hide_green": true,
+      "only_changed": true,
+      "left_hand_from": "hand_open",
+      "gesture": "point",
+      "via": "hand_half"
+    },
+    "hand_tablet": {
+      "file": "../../haj_salama/gen/hand_tablet_g1.jpeg",
+      "region": "body",
+      "feather": 4,
+      "hide_green": true,
+      "only_changed": true,
+      "left_hand_from": "hand_open",
+      "gesture": "tablet",
+      "via": "hand_half"
+    },
+    "hand_half__hand_open_33": {
+      "file": "../../haj_salama/gen/tween/hand_half__hand_open_33.png",
+      "region": "body",
+      "feather": 4,
+      "hide_green": true,
+      "only_changed": true,
+      "left_hand_from": "hand_open",
+      "gesture": "tween",
+      "tween": [
+        "hand_half",
+        "hand_open",
+        0.33
+      ]
+    },
+    "hand_half__hand_open_67": {
+      "file": "../../haj_salama/gen/tween/hand_half__hand_open_67.png",
+      "region": "body",
+      "feather": 4,
+      "hide_green": true,
+      "only_changed": true,
+      "left_hand_from": "hand_open",
+      "gesture": "tween",
+      "tween": [
+        "hand_half",
+        "hand_open",
+        0.67
+      ]
+    },
+    "hand_half__hand_point_33": {
+      "file": "../../haj_salama/gen/tween/hand_half__hand_point_33.png",
+      "region": "body",
+      "feather": 4,
+      "hide_green": true,
+      "only_changed": true,
+      "left_hand_from": "hand_open",
+      "gesture": "tween",
+      "tween": [
+        "hand_half",
+        "hand_point",
+        0.33
+      ]
+    },
+    "hand_half__hand_point_67": {
+      "file": "../../haj_salama/gen/tween/hand_half__hand_point_67.png",
+      "region": "body",
+      "feather": 4,
+      "hide_green": true,
+      "only_changed": true,
+      "left_hand_from": "hand_open",
+      "gesture": "tween",
+      "tween": [
+        "hand_half",
+        "hand_point",
+        0.67
+      ]
+    }
+  },
+  "nose": {
+    "center": [
+      730,
+      470
+    ],
+    "radius": [
+      72,
+      58
+    ]
+  },
+  "cheeks": [
+    {
+      "center": [
+        645,
+        560
+      ],
+      "radius": [
+        55,
+        70
+      ]
+    },
+    {
+      "center": [
+        852,
+        545
+      ],
+      "radius": [
+        60,
+        75
+      ]
+    }
+  ],
+  "shoulders": [
+    {
+      "center": [
+        615,
+        715
+      ],
+      "radius": [
+        150,
+        120
+      ]
+    },
+    {
+      "center": [
+        1000,
+        735
+      ],
+      "radius": [
+        150,
+        120
+      ]
+    }
+  ],
+  "fingers": {
+    "center": [
+      745,
+      895
+    ],
+    "radius": [
+      95,
+      38
+    ]
+  },
+  "mouth": {
+    "upper": [
+      [
+        696,
+        575
+      ],
+      [
+        710,
+        571
+      ],
+      [
+        730,
+        569
+      ],
+      [
+        750,
+        569
+      ],
+      [
+        770,
+        570
+      ],
+      [
+        790,
+        572
+      ],
+      [
+        801,
+        578
+      ]
+    ],
+    "lower": [
+      [
+        696,
+        575
+      ],
+      [
+        710,
+        583
+      ],
+      [
+        730,
+        588
+      ],
+      [
+        750,
+        592
+      ],
+      [
+        770,
+        592
+      ],
+      [
+        790,
+        586
+      ],
+      [
+        801,
+        578
+      ]
+    ],
+    "meet": 0.25,
+    "reach_up": 22,
+    "reach_down": 75,
+    "center": [
+      750,
+      580
+    ],
+    "narrow_radius": [
+      70,
+      45
+    ]
+  },
+  "brows": [
+    {
+      "center": [
+        712,
+        308
+      ],
+      "radius": [
+        52,
+        28
+      ]
+    },
+    {
+      "center": [
+        826,
+        326
+      ],
+      "radius": [
+        62,
+        32
+      ]
+    }
+  ],
+  "brow_lift": 9,
+  "neck": [
+    812,
+    700
+  ],
+  "head_full_above": 640,
+  "head_zero_below": 735,
+  "crown": [
+    800,
+    190
+  ],
+  "hands": [
+    600,
+    850,
+    870,
+    1040
+  ],
+  "tweens": [
+    {
+      "a": "hand_half",
+      "b": "hand_open"
+    },
+    {
+      "a": "hand_half",
+      "b": "hand_point"
+    }
+  ],
+  "_tweens": "RIFE in-betweens (tools/relief/arm_tweens.py) for small arm changes only; big swings (rest<->half, half<->tablet) stay clean cuts: cut-out and flow morphs both tore there"
+}

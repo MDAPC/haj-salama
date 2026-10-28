@@ -1,0 +1,31 @@
+# Local tools and models: python tools/setup.py downloads them here
+.tools/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.blend1
+
+# Renders and per-episode outputs (regenerate with anchor.py)
+episodes/*/out/
+
+# Real people's recordings stay private: performance-capture episodes made from filmed speakers
+# or stock interviews (make your own with tools/capture/from_video.py)
+episodes/speaker*/
+episodes/capture*/
+
+# Stock interview clips (CC BY): python tools/setup.py --stock; traces of those people stay local too
+assets/capture/stock/*.webm
+assets/capture/*_trace.json
+
+# Veo intermediates, large and regenerable: python tools/capture/veo_rebuild.py
+assets/haj_salama/veo/lib*/
+assets/haj_salama/veo/pool/
+assets/haj_salama/veo/*_frames/
+assets/haj_salama/veo/*_mirrored_original.mp4
+
+# Editor / OS clutter
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

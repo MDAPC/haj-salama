@@ -1,0 +1,7 @@
+# Optional extras, each best in its own venv (see docs/SETUP.md):
+# EMAGE speech-to-gesture (NON-COMMERCIAL models): tools/capture/emage_trace.py
+#   onnxruntime, soundfile, librosa, numpy  + the emage-onnx-export ONNX files
+# Local Stable Diffusion inpainting (experimental): tools/gen/inpaint.py, tools/gen/batch_mouths.py
+#   torch, diffusers, transformers, accelerate
+soundfile>=0.12
+librosa>=0.10

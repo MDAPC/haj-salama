@@ -1,0 +1,35 @@
+{
+ "_doc": "Veo gesture clips of the standing figure. tools/capture/veo_rebuild.py makes each lib/ from its clip and trace, then the pool. veo03_face.mp4 is the expressions close-up (tools/capture/veo_expressions.py), not a gesture clip.",
+ "clips": [
+  {
+   "lib": "lib01",
+   "clip": "veo01.mp4",
+   "trace": "veo01_trace.json",
+   "about": "R open palm, R side present, both palms, hands clasped"
+  },
+  {
+   "lib": "lib02",
+   "clip": "veo02.mp4",
+   "trace": "veo02_trace.json",
+   "about": "frown + head shake, R stop palm, R pointing, shrug, sad sigh"
+  },
+  {
+   "lib": "lib04",
+   "clip": "veo04_left.mp4",
+   "trace": "veo04_trace.json",
+   "about": "L open palm, present, calming palm, both calming, L hand on chest (made mirrored, flipped back)"
+  },
+  {
+   "lib": "lib_veo05_count",
+   "clip": "veo05_count.mp4",
+   "trace": "veo05_count_trace.json",
+   "about": "R counts two on fingers + short one-finger"
+  },
+  {
+   "lib": "lib_veo06_both",
+   "clip": "veo06_both.mp4",
+   "trace": "veo06_both_trace.json",
+   "about": "hands fold, both palms up + smaller both palms"
+  }
+ ]
+}

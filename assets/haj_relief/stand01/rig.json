@@ -1,0 +1,507 @@
+{
+  "_doc": "Standing figure, refs/stand01.png (1920x1080, Gemini-painted from the ref10 likeness). Rendered over plain chroma green (no studio). Mouth curves are the inner edges of the opening, left to right, sharing the corners.",
+  "eyes": [
+    {
+      "center": [
+        928,
+        246
+      ],
+      "axes": [
+        19,
+        12
+      ],
+      "angle": 0,
+      "iris": [
+        931,
+        244
+      ],
+      "iris_r": 11
+    },
+    {
+      "center": [
+        1003,
+        247
+      ],
+      "axes": [
+        20,
+        12
+      ],
+      "angle": -2,
+      "iris": [
+        1006,
+        245
+      ],
+      "iris_r": 11
+    }
+  ],
+  "jaw_drop": 18,
+  "arm_point": [
+    880,
+    700
+  ],
+  "face_center": [
+    960,
+    320
+  ],
+  "face_radius": [
+    100,
+    160
+  ],
+  "face_box": [
+    800,
+    130,
+    1115,
+    480
+  ],
+  "mouth": {
+    "upper": [
+      [
+        922,
+        391
+      ],
+      [
+        935,
+        388
+      ],
+      [
+        950,
+        386
+      ],
+      [
+        965,
+        386
+      ],
+      [
+        980,
+        387
+      ],
+      [
+        995,
+        389
+      ],
+      [
+        1010,
+        392
+      ]
+    ],
+    "lower": [
+      [
+        922,
+        391
+      ],
+      [
+        935,
+        398
+      ],
+      [
+        950,
+        402
+      ],
+      [
+        965,
+        403
+      ],
+      [
+        980,
+        402
+      ],
+      [
+        995,
+        398
+      ],
+      [
+        1010,
+        392
+      ]
+    ],
+    "meet": 0.25,
+    "reach_up": 17,
+    "reach_down": 58,
+    "center": [
+      966,
+      395
+    ],
+    "narrow_radius": [
+      56,
+      36
+    ]
+  },
+  "nose": {
+    "center": [
+      960,
+      327
+    ],
+    "radius": [
+      55,
+      45
+    ]
+  },
+  "cheeks": [
+    {
+      "center": [
+        905,
+        380
+      ],
+      "radius": [
+        40,
+        52
+      ]
+    },
+    {
+      "center": [
+        1030,
+        375
+      ],
+      "radius": [
+        45,
+        56
+      ]
+    }
+  ],
+  "brows": [
+    {
+      "center": [
+        920,
+        214
+      ],
+      "radius": [
+        36,
+        17
+      ]
+    },
+    {
+      "center": [
+        1010,
+        212
+      ],
+      "radius": [
+        38,
+        17
+      ]
+    }
+  ],
+  "brow_lift": 7,
+  "neck": [
+    958,
+    470
+  ],
+  "crown": [
+    965,
+    110
+  ],
+  "head_full_above": 430,
+  "head_zero_below": 540,
+  "shemagh_tail_y": 400,
+  "_body": "standing: the chest bone pivots at the waist (chest_y) and everything below hips_y stays planted (soft 120 px band), so he bends instead of rocking on his feet; body_sway halves lean and side sway; breathing/shrug fields start at the shoulders; no desk, no clasped-hands bone or finger taps",
+  "chest_y": 800,
+  "torso_top": 470,
+  "shrug_top": 480,
+  "desk_y": 5000,
+  "hands": [
+    0,
+    1070,
+    2,
+    1072
+  ],
+  "fingers": {
+    "center": [
+      4,
+      1075
+    ],
+    "radius": [
+      1,
+      1
+    ]
+  },
+  "shoulders": [
+    {
+      "center": [
+        850,
+        500
+      ],
+      "radius": [
+        110,
+        90
+      ]
+    },
+    {
+      "center": [
+        1090,
+        505
+      ],
+      "radius": [
+        110,
+        90
+      ]
+    }
+  ],
+  "patch_masks": {
+    "mouth": [
+      {
+        "center": [
+          966,
+          406
+        ],
+        "radius": [
+          76,
+          48
+        ]
+      }
+    ],
+    "mouth_big": [
+      {
+        "center": [
+          966,
+          425
+        ],
+        "radius": [
+          82,
+          74
+        ]
+      }
+    ],
+    "eyes": [
+      {
+        "center": [
+          928,
+          244
+        ],
+        "radius": [
+          34,
+          25
+        ]
+      },
+      {
+        "center": [
+          1004,
+          246
+        ],
+        "radius": [
+          36,
+          26
+        ]
+      }
+    ],
+    "body": [
+      {
+        "rect": [
+          380,
+          180,
+          1600,
+          1080
+        ]
+      },
+      {
+        "center": [
+          965,
+          290
+        ],
+        "radius": [
+          185,
+          200
+        ],
+        "sub": true
+      },
+      {
+        "rect": [
+          1060,
+          150,
+          1185,
+          505
+        ],
+        "sub": true
+      }
+    ],
+    "upper_face": [
+      {
+        "center": [
+          965,
+          226
+        ],
+        "radius": [
+          102,
+          64
+        ]
+      }
+    ]
+  },
+  "_mouth_space": "where each painted mouth sits: open 0..1, spread -1 (narrow) .. 1 (wide), round 0..1; base = the reference's own (slightly open, teeth showing)",
+  "mouth_space": {
+    "closed": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "base": [
+      0.3,
+      0.2,
+      0.0
+    ],
+    "ee": [
+      0.45,
+      0.6,
+      0.0
+    ],
+    "o": [
+      0.45,
+      -0.4,
+      0.6
+    ],
+    "oo": [
+      0.25,
+      -0.8,
+      1.0
+    ],
+    "a": [
+      0.75,
+      0.1,
+      0.0
+    ]
+  },
+  "_gestures": "gesture = its kind (_R = his right hand, screen left; _L = his left hand, screen right); via = the in-between painting it passes through from the resting pose (the reference: arms hanging)",
+  "variants": {
+    "closed": {
+      "file": "../../haj_salama/gen/s_m_closed.jpeg",
+      "region": "mouth"
+    },
+    "a": {
+      "file": "../../haj_salama/gen/s_m_a.jpeg",
+      "region": "mouth_big",
+      "feather": 8
+    },
+    "ee": {
+      "file": "../../haj_salama/gen/s_m_ee.jpeg",
+      "region": "mouth"
+    },
+    "oo": {
+      "file": "../../haj_salama/gen/s_m_oo.jpeg",
+      "region": "mouth"
+    },
+    "o": {
+      "file": "../../haj_salama/gen/s_m_o.jpeg",
+      "region": "mouth"
+    },
+    "eyes_closed": {
+      "file": "../../haj_salama/gen/s_eyes_closed.jpeg",
+      "region": "eyes",
+      "feather": 5
+    },
+    "half_R": {
+      "file": "../../haj_salama/gen/s_half_R.jpeg",
+      "region": "body",
+      "feather": 4,
+      "hide_green": true,
+      "only_changed": true,
+      "gesture": "half_R",
+      "matte": true
+    },
+    "open_R": {
+      "file": "../../haj_salama/gen/s_open_R.jpeg",
+      "region": "body",
+      "feather": 4,
+      "hide_green": true,
+      "only_changed": true,
+      "gesture": "open_R",
+      "via": "half_R",
+      "matte": true
+    },
+    "point_R": {
+      "file": "../../haj_salama/gen/s_point.jpeg",
+      "region": "body",
+      "feather": 4,
+      "hide_green": true,
+      "only_changed": true,
+      "gesture": "point_R",
+      "via": "half_R",
+      "matte": true
+    },
+    "half_L": {
+      "file": "../../haj_salama/gen/s_half_L.jpeg",
+      "region": "body",
+      "feather": 4,
+      "hide_green": true,
+      "only_changed": true,
+      "gesture": "half_L",
+      "matte": true
+    },
+    "open_L": {
+      "file": "../../haj_salama/gen/s_open_L.jpeg",
+      "region": "body",
+      "feather": 4,
+      "hide_green": true,
+      "only_changed": true,
+      "gesture": "open_L",
+      "via": "half_L",
+      "matte": true
+    },
+    "present_L": {
+      "file": "../../haj_salama/gen/s_present.jpeg",
+      "region": "body",
+      "feather": 4,
+      "hide_green": true,
+      "only_changed": true,
+      "gesture": "present_L",
+      "via": "half_L",
+      "matte": true
+    },
+    "both": {
+      "file": "../../haj_salama/gen/s_both.jpeg",
+      "region": "body",
+      "feather": 4,
+      "hide_green": true,
+      "only_changed": true,
+      "gesture": "both",
+      "matte": true
+    },
+    "clasp": {
+      "file": "../../haj_salama/gen/s_clasp.jpeg",
+      "region": "body",
+      "feather": 4,
+      "hide_green": true,
+      "only_changed": true,
+      "gesture": "clasp",
+      "matte": true
+    },
+    "expr_frown": {
+      "file": "../../haj_salama/veo/expr03/expr_frown.png",
+      "region": "upper_face",
+      "feather": 8,
+      "expression": "frown"
+    },
+    "expr_stern": {
+      "file": "../../haj_salama/veo/expr03/expr_stern.png",
+      "region": "upper_face",
+      "feather": 8,
+      "expression": "stern"
+    },
+    "expr_worried": {
+      "file": "../../haj_salama/veo/expr03/expr_worried.png",
+      "region": "upper_face",
+      "feather": 8,
+      "expression": "worried"
+    },
+    "expr_skeptic": {
+      "file": "../../haj_salama/veo/expr03/expr_skeptic.png",
+      "region": "upper_face",
+      "feather": 8,
+      "expression": "skeptic"
+    },
+    "expr_sad": {
+      "file": "../../haj_salama/veo/expr03/expr_sad.png",
+      "region": "upper_face",
+      "feather": 8,
+      "expression": "sad"
+    },
+    "expr_closed": {
+      "file": "../../haj_salama/veo/expr03/expr_closed.png",
+      "region": "upper_face",
+      "feather": 8,
+      "expression": "closed"
+    }
+  },
+  "_expressions": "expr_* = upper-face paintings (brows, eyes, forehead) picked from the Veo close-up assets/haj_salama/veo/veo03_face.mp4 by tools/capture/veo_expressions.py; the mouth stays on lip-sync",
+  "veo_pool": "../../haj_salama/veo/pool",
+  "_veo_pool": "body gestures play Veo frames (tools/capture/veo_pool.py) instead of the painted poses when set",
+  "hips_y": 800,
+  "body_sway": 0.5
+}

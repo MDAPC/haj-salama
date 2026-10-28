@@ -1,0 +1,32 @@
+{
+ "frown": {
+  "frame": 26,
+  "t": 1.08,
+  "score": -0.139
+ },
+ "worried": {
+  "frame": 234,
+  "t": 9.75,
+  "score": 0.995
+ },
+ "skeptic": {
+  "frame": 80,
+  "t": 3.33,
+  "score": 0.851
+ },
+ "sad": {
+  "frame": 158,
+  "t": 6.58,
+  "score": 0.649
+ },
+ "closed": {
+  "frame": 190,
+  "t": 7.92,
+  "score": 0.758
+ },
+ "neutral": {
+  "frame": 38,
+  "t": 1.58,
+  "score": -0.513
+ }
+}

@@ -1,0 +1,101 @@
+{
+  "canvas": [
+    1000,
+    1400
+  ],
+  "groups": {
+    "body": {
+      "pivot": [
+        500,
+        1400
+      ]
+    },
+    "head": {
+      "pivot": [
+        500,
+        800
+      ],
+      "parent": "body"
+    },
+    "brows": {
+      "pivot": [
+        500,
+        556
+      ],
+      "parent": "head"
+    }
+  },
+  "layers": [
+    {
+      "name": "body",
+      "file": "body.png",
+      "pos": [
+        0,
+        700
+      ],
+      "group": "body",
+      "z": 0
+    },
+    {
+      "name": "head",
+      "file": "head.png",
+      "pos": [
+        300,
+        330
+      ],
+      "group": "head",
+      "z": 1
+    },
+    {
+      "name": "eyes_open",
+      "file": "eyes_open.png",
+      "pos": [
+        380,
+        570
+      ],
+      "group": "head",
+      "z": 2,
+      "role": "eyes_open"
+    },
+    {
+      "name": "eyes_closed",
+      "file": "eyes_closed.png",
+      "pos": [
+        380,
+        570
+      ],
+      "group": "head",
+      "z": 2,
+      "role": "eyes_closed"
+    },
+    {
+      "name": "brows",
+      "file": "brows.png",
+      "pos": [
+        380,
+        535
+      ],
+      "group": "brows",
+      "z": 3
+    }
+  ],
+  "mouth": {
+    "pos": [
+      420,
+      695
+    ],
+    "group": "head",
+    "z": 3,
+    "shapes": {
+      "A": "mouth_A.png",
+      "B": "mouth_B.png",
+      "C": "mouth_C.png",
+      "D": "mouth_D.png",
+      "E": "mouth_E.png",
+      "F": "mouth_F.png",
+      "G": "mouth_G.png",
+      "H": "mouth_H.png",
+      "X": "mouth_X.png"
+    }
+  }
+}

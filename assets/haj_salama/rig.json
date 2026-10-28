@@ -1,0 +1,24 @@
+{
+  "_doc": "Image-pixel landmarks on source.png (2500x1874) for the mesh-warp rig. upper/lower = inner edges of an opening, sampled left to right; both start and end at the corners.",
+  "bbox": [654, 440, 1738, 1874],
+  "grid": 4,
+  "mouth": {
+    "upper": [[1106, 1062], [1110, 1054], [1135, 1052], [1160, 1051], [1185, 1049], [1210, 1047], [1222, 1052], [1232, 1065], [1236, 1072]],
+    "lower": [[1106, 1062], [1110, 1075], [1135, 1082], [1160, 1094], [1185, 1097], [1210, 1095], [1222, 1089], [1232, 1080], [1236, 1072]],
+    "meet": 0.15,
+    "reach_up": 30,
+    "reach_down": 110,
+    "center": [1172, 1072],
+    "narrow_radius": [105, 70]
+  },
+  "eye_boxes": [[1132, 690, 1198, 756], [1244, 734, 1302, 778]],
+  "smoke_region": [0, 1040, 765, 1440],
+  "brows": [
+    {"center": [1165, 675], "radius": [75, 45]},
+    {"center": [1300, 725], "radius": [80, 40]}
+  ],
+  "brow_lift": 12,
+  "head": {"pivot": [1265, 1210], "full_above": 1110, "zero_below": 1280, "tilt_deg": 2.5, "nod_px": 7},
+  "arm": {"pivot": [1225, 1290], "x_full": 1040, "x_zero": 1190, "y_range": [1200, 1430], "y_soft": 40, "deg": 5},
+  "breathe": {"base_y": 1874, "amount": 0.006}
+}

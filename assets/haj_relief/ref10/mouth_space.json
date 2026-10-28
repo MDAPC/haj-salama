@@ -1,0 +1,62 @@
+{
+ "base": {
+  "open": 0.4058,
+  "width": 0.8695,
+  "round": 0.0
+ },
+ "closed": {
+  "open": 0.0,
+  "width": 1.1915,
+  "round": 0.0
+ },
+ "a": {
+  "open": 0.3993,
+  "width": 0.8824,
+  "round": 0.0
+ },
+ "ee": {
+  "open": 0.3671,
+  "width": 0.9468,
+  "round": 0.0
+ },
+ "oo": {
+  "open": 0.1675,
+  "width": 1.1915,
+  "round": 1.0
+ },
+ "f": {
+  "open": 0.219,
+  "width": 0.921,
+  "round": 0.0
+ },
+ "mb": {
+  "open": 0.0,
+  "width": 0.9404,
+  "round": 0.0
+ },
+ "l": {
+  "open": 0.3349,
+  "width": 0.8631,
+  "round": 0.0
+ },
+ "o": {
+  "open": 0.3414,
+  "width": 0.7536,
+  "round": 0.6
+ },
+ "a_wide": {
+  "open": 0.6376,
+  "width": 0.8824,
+  "round": 0.64
+ },
+ "slight": {
+  "open": 0.2158,
+  "width": 0.9081,
+  "round": 0.0
+ },
+ "teeth": {
+  "open": 0.2512,
+  "width": 0.9597,
+  "round": 0.0
+ }
+}

@@ -1,0 +1,2142 @@
+[
+{
+"phoneme": "^",
+"start": 0.0,
+"end": 0.0697
+},
+{
+"phoneme": "m",
+"start": 0.0697,
+"end": 0.1045
+},
+{
+"phoneme": "ˈ",
+"start": 0.1045,
+"end": 0.1974
+},
+{
+"phoneme": "a",
+"start": 0.1974,
+"end": 0.2902
+},
+{
+"phoneme": "s",
+"start": 0.2902,
+"end": 0.3715
+},
+{
+"phoneme": "a",
+"start": 0.3715,
+"end": 0.4644
+},
+{
+"phoneme": "ː",
+"start": 0.4644,
+"end": 0.4992
+},
+{
+"phoneme": "ʔ",
+"start": 0.4992,
+"end": 0.5341
+},
+{
+"phoneme": "ˌ",
+"start": 0.5341,
+"end": 0.5689
+},
+{
+"phoneme": "u",
+"start": 0.5689,
+"end": 0.6385
+},
+{
+"phoneme": " ",
+"start": 0.6385,
+"end": 0.6734
+},
+{
+"phoneme": "ʔ",
+"start": 0.6734,
+"end": 0.743
+},
+{
+"phoneme": "a",
+"start": 0.743,
+"end": 0.7663
+},
+{
+"phoneme": "l",
+"start": 0.7663,
+"end": 0.8011
+},
+{
+"phoneme": "χ",
+"start": 0.8011,
+"end": 0.9172
+},
+{
+"phoneme": "ˈ",
+"start": 0.9172,
+"end": 0.952
+},
+{
+"phoneme": "a",
+"start": 0.952,
+"end": 1.0449
+},
+{
+"phoneme": "i",
+"start": 1.0449,
+"end": 1.1378
+},
+{
+"phoneme": "r",
+"start": 1.1378,
+"end": 1.2771
+},
+{
+"phoneme": ",",
+"start": 1.2771,
+"end": 1.3816
+},
+{
+"phoneme": " ",
+"start": 1.3816,
+"end": 1.4629
+},
+{
+"phoneme": "w",
+"start": 1.4629,
+"end": 1.5906
+},
+{
+"phoneme": "ˈ",
+"start": 1.5906,
+"end": 1.6486
+},
+{
+"phoneme": "a",
+"start": 1.6486,
+"end": 1.6951
+},
+{
+"phoneme": "ʔ",
+"start": 1.6951,
+"end": 1.7763
+},
+{
+"phoneme": "a",
+"start": 1.7763,
+"end": 1.846
+},
+{
+"phoneme": "h",
+"start": 1.846,
+"end": 1.9389
+},
+{
+"phoneme": "l",
+"start": 1.9389,
+"end": 2.0085
+},
+{
+"phoneme": "ˌ",
+"start": 2.0085,
+"end": 2.055
+},
+{
+"phoneme": "a",
+"start": 2.055,
+"end": 2.1362
+},
+{
+"phoneme": "n",
+"start": 2.1362,
+"end": 2.2059
+},
+{
+"phoneme": " ",
+"start": 2.2059,
+"end": 2.2756
+},
+{
+"phoneme": "b",
+"start": 2.2756,
+"end": 2.3336
+},
+{
+"phoneme": "i",
+"start": 2.3336,
+"end": 2.38
+},
+{
+"phoneme": "k",
+"start": 2.38,
+"end": 2.4497
+},
+{
+"phoneme": "ˌ",
+"start": 2.4497,
+"end": 2.5194
+},
+{
+"phoneme": "u",
+"start": 2.5194,
+"end": 2.6006
+},
+{
+"phoneme": "m",
+"start": 2.6006,
+"end": 2.6935
+},
+{
+"phoneme": " ",
+"start": 2.6935,
+"end": 2.7516
+},
+{
+"phoneme": "f",
+"start": 2.7516,
+"end": 2.8212
+},
+{
+"phoneme": "i",
+"start": 2.8212,
+"end": 2.9257
+},
+{
+"phoneme": "ː",
+"start": 2.9257,
+"end": 2.9605
+},
+{
+"phoneme": " ",
+"start": 2.9605,
+"end": 3.007
+},
+{
+"phoneme": "n",
+"start": 3.007,
+"end": 3.065
+},
+{
+"phoneme": "ˈ",
+"start": 3.065,
+"end": 3.1231
+},
+{
+"phoneme": "a",
+"start": 3.1231,
+"end": 3.2276
+},
+{
+"phoneme": "ʃ",
+"start": 3.2276,
+"end": 3.3205
+},
+{
+"phoneme": "r",
+"start": 3.3205,
+"end": 3.4133
+},
+{
+"phoneme": "a",
+"start": 3.4133,
+"end": 3.4714
+},
+{
+"phoneme": "t",
+"start": 3.4714,
+"end": 3.541
+},
+{
+"phoneme": "ˌ",
+"start": 3.541,
+"end": 3.5759
+},
+{
+"phoneme": "i",
+"start": 3.5759,
+"end": 3.6107
+},
+{
+"phoneme": " ",
+"start": 3.6107,
+"end": 3.6455
+},
+{
+"phoneme": "ʔ",
+"start": 3.6455,
+"end": 3.692
+},
+{
+"phoneme": "ˈ",
+"start": 3.692,
+"end": 3.7616
+},
+{
+"phoneme": "a",
+"start": 3.7616,
+"end": 3.8429
+},
+{
+"phoneme": "χ",
+"start": 3.8429,
+"end": 3.9242
+},
+{
+"phoneme": "b",
+"start": 3.9242,
+"end": 4.0287
+},
+{
+"phoneme": "a",
+"start": 4.0287,
+"end": 4.1332
+},
+{
+"phoneme": "ː",
+"start": 4.1332,
+"end": 4.2028
+},
+{
+"phoneme": "r",
+"start": 4.2028,
+"end": 4.2376
+},
+{
+"phoneme": "ˌ",
+"start": 4.2376,
+"end": 4.2725
+},
+{
+"phoneme": "i",
+"start": 4.2725,
+"end": 4.3189
+},
+{
+"phoneme": " ",
+"start": 4.3189,
+"end": 4.377
+},
+{
+"phoneme": "a",
+"start": 4.377,
+"end": 4.4118
+},
+{
+"phoneme": "l",
+"start": 4.4118,
+"end": 4.435
+},
+{
+"phoneme": "f",
+"start": 4.435,
+"end": 4.5511
+},
+{
+"phoneme": "ˈ",
+"start": 4.5511,
+"end": 4.6208
+},
+{
+"phoneme": "a",
+"start": 4.6208,
+"end": 4.6788
+},
+{
+"phoneme": "r",
+"start": 4.6788,
+"end": 4.7369
+},
+{
+"phoneme": "i",
+"start": 4.7369,
+"end": 4.853
+},
+{
+"phoneme": "ː",
+"start": 4.853,
+"end": 4.8994
+},
+{
+"phoneme": "d",
+"start": 4.8994,
+"end": 4.9807
+},
+{
+"phoneme": "ʒ",
+"start": 4.9807,
+"end": 5.0271
+},
+{
+"phoneme": "ˌ",
+"start": 5.0271,
+"end": 5.12
+},
+{
+"phoneme": "i",
+"start": 5.12,
+"end": 5.1432
+},
+{
+"phoneme": ".",
+"start": 5.1432,
+"end": 5.2129
+},
+{
+"phoneme": "$",
+"start": 5.2129,
+"end": 5.2477
+},
+{
+"phoneme": " ",
+"start": 5.2477,
+"end": 5.5977
+},
+{
+"phoneme": "^",
+"start": 5.5977,
+"end": 5.6674
+},
+{
+"phoneme": "m",
+"start": 5.6674,
+"end": 5.7486
+},
+{
+"phoneme": "a",
+"start": 5.7486,
+"end": 5.8183
+},
+{
+"phoneme": "ʕ",
+"start": 5.8183,
+"end": 5.888
+},
+{
+"phoneme": "ˈ",
+"start": 5.888,
+"end": 5.9344
+},
+{
+"phoneme": "a",
+"start": 5.9344,
+"end": 5.9808
+},
+{
+"phoneme": "k",
+"start": 5.9808,
+"end": 6.0389
+},
+{
+"phoneme": "u",
+"start": 6.0389,
+"end": 6.0853
+},
+{
+"phoneme": "m",
+"start": 6.0853,
+"end": 6.1434
+},
+{
+"phoneme": "ˌ",
+"start": 6.1434,
+"end": 6.1782
+},
+{
+"phoneme": "u",
+"start": 6.1782,
+"end": 6.2363
+},
+{
+"phoneme": " ",
+"start": 6.2363,
+"end": 6.2827
+},
+{
+"phoneme": "ʔ",
+"start": 6.2827,
+"end": 6.3175
+},
+{
+"phoneme": "a",
+"start": 6.3175,
+"end": 6.364
+},
+{
+"phoneme": "l",
+"start": 6.364,
+"end": 6.3988
+},
+{
+"phoneme": "ħ",
+"start": 6.3988,
+"end": 6.5381
+},
+{
+"phoneme": "ˈ",
+"start": 6.5381,
+"end": 6.5729
+},
+{
+"phoneme": "a",
+"start": 6.5729,
+"end": 6.6542
+},
+{
+"phoneme": "ː",
+"start": 6.6542,
+"end": 6.689
+},
+{
+"phoneme": "d",
+"start": 6.689,
+"end": 6.7471
+},
+{
+"phoneme": "ʒ",
+"start": 6.7471,
+"end": 6.8284
+},
+{
+"phoneme": "ː",
+"start": 6.8284,
+"end": 6.8632
+},
+{
+"phoneme": "u",
+"start": 6.8632,
+"end": 6.9096
+},
+{
+"phoneme": " ",
+"start": 6.9096,
+"end": 6.9909
+},
+{
+"phoneme": "s",
+"start": 6.9909,
+"end": 7.0838
+},
+{
+"phoneme": "a",
+"start": 7.0838,
+"end": 7.1302
+},
+{
+"phoneme": "l",
+"start": 7.1302,
+"end": 7.1999
+},
+{
+"phoneme": "ˈ",
+"start": 7.1999,
+"end": 7.2695
+},
+{
+"phoneme": "a",
+"start": 7.2695,
+"end": 7.3044
+},
+{
+"phoneme": "ː",
+"start": 7.3044,
+"end": 7.3392
+},
+{
+"phoneme": "m",
+"start": 7.3392,
+"end": 7.4205
+},
+{
+"phoneme": "a",
+"start": 7.4205,
+"end": 7.4901
+},
+{
+"phoneme": "t",
+"start": 7.4901,
+"end": 7.5598
+},
+{
+"phoneme": "ˌ",
+"start": 7.5598,
+"end": 7.6178
+},
+{
+"phoneme": "u",
+"start": 7.6178,
+"end": 7.6759
+},
+{
+"phoneme": "n",
+"start": 7.6759,
+"end": 7.7339
+},
+{
+"phoneme": ".",
+"start": 7.7339,
+"end": 7.8617
+},
+{
+"phoneme": "$",
+"start": 7.8617,
+"end": 7.8849
+},
+{
+"phoneme": " ",
+"start": 7.8849,
+"end": 8.2349
+},
+{
+"phoneme": "^",
+"start": 8.2349,
+"end": 8.5715
+},
+{
+"phoneme": "f",
+"start": 8.5715,
+"end": 8.6412
+},
+{
+"phoneme": "i",
+"start": 8.6412,
+"end": 8.7341
+},
+{
+"phoneme": "ː",
+"start": 8.7341,
+"end": 8.7921
+},
+{
+"phoneme": " ",
+"start": 8.7921,
+"end": 8.8386
+},
+{
+"phoneme": "ʕ",
+"start": 8.8386,
+"end": 8.9082
+},
+{
+"phoneme": "a",
+"start": 8.9082,
+"end": 8.9779
+},
+{
+"phoneme": "n",
+"start": 8.9779,
+"end": 9.0476
+},
+{
+"phoneme": "ˈ",
+"start": 9.0476,
+"end": 9.1056
+},
+{
+"phoneme": "a",
+"start": 9.1056,
+"end": 9.2217
+},
+{
+"phoneme": "ː",
+"start": 9.2217,
+"end": 9.303
+},
+{
+"phoneme": "w",
+"start": 9.303,
+"end": 9.3494
+},
+{
+"phoneme": "i",
+"start": 9.3494,
+"end": 9.4423
+},
+{
+"phoneme": "ː",
+"start": 9.4423,
+"end": 9.5003
+},
+{
+"phoneme": "n",
+"start": 9.5003,
+"end": 9.5468
+},
+{
+"phoneme": "ˌ",
+"start": 9.5468,
+"end": 9.5816
+},
+{
+"phoneme": "i",
+"start": 9.5816,
+"end": 9.6513
+},
+{
+"phoneme": " ",
+"start": 9.6513,
+"end": 9.6977
+},
+{
+"phoneme": "h",
+"start": 9.6977,
+"end": 9.7558
+},
+{
+"phoneme": "ˈ",
+"start": 9.7558,
+"end": 9.8254
+},
+{
+"phoneme": "a",
+"start": 9.8254,
+"end": 9.8951
+},
+{
+"phoneme": "ð",
+"start": 9.8951,
+"end": 9.9647
+},
+{
+"phoneme": "a",
+"start": 9.9647,
+"end": 10.0112
+},
+{
+"phoneme": "ː",
+"start": 10.0112,
+"end": 10.0344
+},
+{
+"phoneme": " ",
+"start": 10.0344,
+"end": 10.0576
+},
+{
+"phoneme": "ʔ",
+"start": 10.0576,
+"end": 10.0924
+},
+{
+"phoneme": "a",
+"start": 10.0924,
+"end": 10.1273
+},
+{
+"phoneme": "l",
+"start": 10.1273,
+"end": 10.2085
+},
+{
+"phoneme": "m",
+"start": 10.2085,
+"end": 10.2434
+},
+{
+"phoneme": "ˈ",
+"start": 10.2434,
+"end": 10.313
+},
+{
+"phoneme": "a",
+"start": 10.313,
+"end": 10.4059
+},
+{
+"phoneme": "s",
+"start": 10.4059,
+"end": 10.4988
+},
+{
+"phoneme": "a",
+"start": 10.4988,
+"end": 10.5685
+},
+{
+"phoneme": "ː",
+"start": 10.5685,
+"end": 10.6497
+},
+{
+"phoneme": "ʔ",
+"start": 10.6497,
+"end": 10.6962
+},
+{
+"phoneme": ":",
+"start": 10.6962,
+"end": 11.0096
+},
+{
+"phoneme": " ",
+"start": 11.0096,
+"end": 11.1954
+},
+{
+"phoneme": "m",
+"start": 11.1954,
+"end": 11.2883
+},
+{
+"phoneme": "a",
+"start": 11.2883,
+"end": 11.3347
+},
+{
+"phoneme": "ˈ",
+"start": 11.3347,
+"end": 11.4276
+},
+{
+"phoneme": "u",
+"start": 11.4276,
+"end": 11.4624
+},
+{
+"phoneme": "d",
+"start": 11.4624,
+"end": 11.5089
+},
+{
+"phoneme": "ʒ",
+"start": 11.5089,
+"end": 11.5669
+},
+{
+"phoneme": "a",
+"start": 11.5669,
+"end": 11.6366
+},
+{
+"phoneme": "t",
+"start": 11.6366,
+"end": 11.6714
+},
+{
+"phoneme": "ˌ",
+"start": 11.6714,
+"end": 11.7178
+},
+{
+"phoneme": "u",
+"start": 11.7178,
+"end": 11.7643
+},
+{
+"phoneme": " ",
+"start": 11.7643,
+"end": 11.7991
+},
+{
+"phoneme": "ɣ",
+"start": 11.7991,
+"end": 11.8572
+},
+{
+"phoneme": "ˈ",
+"start": 11.8572,
+"end": 11.9384
+},
+{
+"phoneme": "u",
+"start": 11.9384,
+"end": 11.9733
+},
+{
+"phoneme": "b",
+"start": 11.9733,
+"end": 12.101
+},
+{
+"phoneme": "a",
+"start": 12.101,
+"end": 12.1939
+},
+{
+"phoneme": "ː",
+"start": 12.1939,
+"end": 12.2287
+},
+{
+"phoneme": "r",
+"start": 12.2287,
+"end": 12.2635
+},
+{
+"phoneme": "ˌ",
+"start": 12.2635,
+"end": 12.3448
+},
+{
+"phoneme": "i",
+"start": 12.3448,
+"end": 12.4144
+},
+{
+"phoneme": "n",
+"start": 12.4144,
+"end": 12.4377
+},
+{
+"phoneme": " ",
+"start": 12.4377,
+"end": 12.4957
+},
+{
+"phoneme": "t",
+"start": 12.4957,
+"end": 12.5538
+},
+{
+"phoneme": "ˈ",
+"start": 12.5538,
+"end": 12.6234
+},
+{
+"phoneme": "a",
+"start": 12.6234,
+"end": 12.6466
+},
+{
+"phoneme": "d",
+"start": 12.6466,
+"end": 12.7163
+},
+{
+"phoneme": "ʒ",
+"start": 12.7163,
+"end": 12.8208
+},
+{
+"phoneme": "t",
+"start": 12.8208,
+"end": 12.8556
+},
+{
+"phoneme": "a",
+"start": 12.8556,
+"end": 12.9717
+},
+{
+"phoneme": "ː",
+"start": 12.9717,
+"end": 13.0182
+},
+{
+"phoneme": "ħ",
+"start": 13.0182,
+"end": 13.0994
+},
+{
+"phoneme": "ˌ",
+"start": 13.0994,
+"end": 13.1227
+},
+{
+"phoneme": "u",
+"start": 13.1227,
+"end": 13.1459
+},
+{
+"phoneme": " ",
+"start": 13.1459,
+"end": 13.1691
+},
+{
+"phoneme": "ʔ",
+"start": 13.1691,
+"end": 13.2039
+},
+{
+"phoneme": "a",
+"start": 13.2039,
+"end": 13.2504
+},
+{
+"phoneme": "l",
+"start": 13.2504,
+"end": 13.2852
+},
+{
+"phoneme": "m",
+"start": 13.2852,
+"end": 13.3897
+},
+{
+"phoneme": "i",
+"start": 13.3897,
+"end": 13.4593
+},
+{
+"phoneme": "n",
+"start": 13.4593,
+"end": 13.529
+},
+{
+"phoneme": "t",
+"start": 13.529,
+"end": 13.6219
+},
+{
+"phoneme": "̪",
+"start": 13.6219,
+"end": 13.6799
+},
+{
+"phoneme": "ˈ",
+"start": 13.6799,
+"end": 13.7032
+},
+{
+"phoneme": "a",
+"start": 13.7032,
+"end": 13.738
+},
+{
+"phoneme": ".",
+"start": 13.738,
+"end": 13.796
+},
+{
+"phoneme": "q",
+"start": 13.796,
+"end": 13.8657
+},
+{
+"phoneme": "a",
+"start": 13.8657,
+"end": 13.947
+},
+{
+"phoneme": "t",
+"start": 13.947,
+"end": 13.9934
+},
+{
+"phoneme": "ˌ",
+"start": 13.9934,
+"end": 14.0282
+},
+{
+"phoneme": "a",
+"start": 14.0282,
+"end": 14.0747
+},
+{
+"phoneme": " ",
+"start": 14.0747,
+"end": 14.1211
+},
+{
+"phoneme": "w",
+"start": 14.1211,
+"end": 14.1792
+},
+{
+"phoneme": "a",
+"start": 14.1792,
+"end": 14.272
+},
+{
+"phoneme": "t",
+"start": 14.272,
+"end": 14.3185
+},
+{
+"phoneme": "ˈ",
+"start": 14.3185,
+"end": 14.3533
+},
+{
+"phoneme": "u",
+"start": 14.3533,
+"end": 14.4346
+},
+{
+"phoneme": "ɣ",
+"start": 14.4346,
+"end": 14.5159
+},
+{
+"phoneme": "l",
+"start": 14.5159,
+"end": 14.5855
+},
+{
+"phoneme": "i",
+"start": 14.5855,
+"end": 14.6203
+},
+{
+"phoneme": "q",
+"start": 14.6203,
+"end": 14.69
+},
+{
+"phoneme": "ˌ",
+"start": 14.69,
+"end": 14.7132
+},
+{
+"phoneme": "u",
+"start": 14.7132,
+"end": 14.7364
+},
+{
+"phoneme": " ",
+"start": 14.7364,
+"end": 14.7945
+},
+{
+"phoneme": "ʔ",
+"start": 14.7945,
+"end": 14.8758
+},
+{
+"phoneme": "a",
+"start": 14.8758,
+"end": 14.9222
+},
+{
+"phoneme": "t",
+"start": 14.9222,
+"end": 14.9802
+},
+{
+"phoneme": "̪",
+"start": 14.9802,
+"end": 15.0151
+},
+{
+"phoneme": "ː",
+"start": 15.0151,
+"end": 15.0383
+},
+{
+"phoneme": "ˈ",
+"start": 15.0383,
+"end": 15.0615
+},
+{
+"phoneme": "u",
+"start": 15.0615,
+"end": 15.0963
+},
+{
+"phoneme": ".",
+"start": 15.0963,
+"end": 15.1428
+},
+{
+"phoneme": "r",
+"start": 15.1428,
+"end": 15.2124
+},
+{
+"phoneme": "u",
+"start": 15.2124,
+"end": 15.2589
+},
+{
+"phoneme": "q",
+"start": 15.2589,
+"end": 15.3518
+},
+{
+"phoneme": "ˌ",
+"start": 15.3518,
+"end": 15.3866
+},
+{
+"phoneme": "a",
+"start": 15.3866,
+"end": 15.4098
+},
+{
+"phoneme": " ",
+"start": 15.4098,
+"end": 15.433
+},
+{
+"phoneme": "ʔ",
+"start": 15.433,
+"end": 15.4911
+},
+{
+"phoneme": "a",
+"start": 15.4911,
+"end": 15.5375
+},
+{
+"phoneme": "s",
+"start": 15.5375,
+"end": 15.5724
+},
+{
+"phoneme": "s",
+"start": 15.5724,
+"end": 15.5956
+},
+{
+"phoneme": "s",
+"start": 15.5956,
+"end": 15.642
+},
+{
+"phoneme": "a",
+"start": 15.642,
+"end": 15.7465
+},
+{
+"phoneme": "r",
+"start": 15.7465,
+"end": 15.7929
+},
+{
+"phoneme": "ˈ",
+"start": 15.7929,
+"end": 15.851
+},
+{
+"phoneme": "i",
+"start": 15.851,
+"end": 15.9439
+},
+{
+"phoneme": "ː",
+"start": 15.9439,
+"end": 16.0019
+},
+{
+"phoneme": "ʕ",
+"start": 16.0019,
+"end": 16.1296
+},
+{
+"phoneme": "a",
+"start": 16.1296,
+"end": 16.1877
+},
+{
+"phoneme": "t",
+"start": 16.1877,
+"end": 16.2457
+},
+{
+"phoneme": "ˌ",
+"start": 16.2457,
+"end": 16.3386
+},
+{
+"phoneme": "a",
+"start": 16.3386,
+"end": 16.3967
+},
+{
+"phoneme": ",",
+"start": 16.3967,
+"end": 16.6521
+},
+{
+"phoneme": " ",
+"start": 16.6521,
+"end": 16.9423
+},
+{
+"phoneme": "w",
+"start": 16.9423,
+"end": 17.012
+},
+{
+"phoneme": "a",
+"start": 17.012,
+"end": 17.0584
+},
+{
+"phoneme": "ʔ",
+"start": 17.0584,
+"end": 17.1165
+},
+{
+"phoneme": "ˈ",
+"start": 17.1165,
+"end": 17.1629
+},
+{
+"phoneme": "a",
+"start": 17.1629,
+"end": 17.2558
+},
+{
+"phoneme": "s",
+"start": 17.2558,
+"end": 17.3371
+},
+{
+"phoneme": "ʕ",
+"start": 17.3371,
+"end": 17.4416
+},
+{
+"phoneme": "a",
+"start": 17.4416,
+"end": 17.5577
+},
+{
+"phoneme": "ː",
+"start": 17.5577,
+"end": 17.6505
+},
+{
+"phoneme": "r",
+"start": 17.6505,
+"end": 17.6738
+},
+{
+"phoneme": "ˌ",
+"start": 17.6738,
+"end": 17.7202
+},
+{
+"phoneme": "u",
+"start": 17.7202,
+"end": 17.755
+},
+{
+"phoneme": " ",
+"start": 17.755,
+"end": 17.7899
+},
+{
+"phoneme": "ʔ",
+"start": 17.7899,
+"end": 17.8363
+},
+{
+"phoneme": "a",
+"start": 17.8363,
+"end": 17.906
+},
+{
+"phoneme": "t",
+"start": 17.906,
+"end": 17.9292
+},
+{
+"phoneme": "t",
+"start": 17.9292,
+"end": 17.9872
+},
+{
+"phoneme": "ː",
+"start": 17.9872,
+"end": 18.0221
+},
+{
+"phoneme": "ˈ",
+"start": 18.0221,
+"end": 18.0685
+},
+{
+"phoneme": "u",
+"start": 18.0685,
+"end": 18.1382
+},
+{
+"phoneme": "m",
+"start": 18.1382,
+"end": 18.1962
+},
+{
+"phoneme": "u",
+"start": 18.1962,
+"end": 18.2775
+},
+{
+"phoneme": "ː",
+"start": 18.2775,
+"end": 18.3588
+},
+{
+"phoneme": "r",
+"start": 18.3588,
+"end": 18.3936
+},
+{
+"phoneme": "ˌ",
+"start": 18.3936,
+"end": 18.4516
+},
+{
+"phoneme": "i",
+"start": 18.4516,
+"end": 18.4865
+},
+{
+"phoneme": " ",
+"start": 18.4865,
+"end": 18.5561
+},
+{
+"phoneme": "t",
+"start": 18.5561,
+"end": 18.6374
+},
+{
+"phoneme": "a",
+"start": 18.6374,
+"end": 18.6954
+},
+{
+"phoneme": "r",
+"start": 18.6954,
+"end": 18.7999
+},
+{
+"phoneme": "t",
+"start": 18.7999,
+"end": 18.8812
+},
+{
+"phoneme": "ˈ",
+"start": 18.8812,
+"end": 18.9625
+},
+{
+"phoneme": "a",
+"start": 18.9625,
+"end": 19.0089
+},
+{
+"phoneme": "f",
+"start": 19.0089,
+"end": 19.0902
+},
+{
+"phoneme": "i",
+"start": 19.0902,
+"end": 19.125
+},
+{
+"phoneme": "ʕ",
+"start": 19.125,
+"end": 19.1947
+},
+{
+"phoneme": "ˌ",
+"start": 19.1947,
+"end": 19.2759
+},
+{
+"phoneme": "u",
+"start": 19.2759,
+"end": 19.3108
+},
+{
+"phoneme": " ",
+"start": 19.3108,
+"end": 19.3572
+},
+{
+"phoneme": "f",
+"start": 19.3572,
+"end": 19.4385
+},
+{
+"phoneme": "i",
+"start": 19.4385,
+"end": 19.5198
+},
+{
+"phoneme": "ː",
+"start": 19.5198,
+"end": 19.5546
+},
+{
+"phoneme": " ",
+"start": 19.5546,
+"end": 19.6475
+},
+{
+"phoneme": "s",
+"start": 19.6475,
+"end": 19.7055
+},
+{
+"phoneme": "u",
+"start": 19.7055,
+"end": 19.7868
+},
+{
+"phoneme": "ː",
+"start": 19.7868,
+"end": 19.8448
+},
+{
+"phoneme": "q",
+"start": 19.8448,
+"end": 19.9261
+},
+{
+"phoneme": "ˌ",
+"start": 19.9261,
+"end": 19.9493
+},
+{
+"phoneme": "i",
+"start": 19.9493,
+"end": 19.9725
+},
+{
+"phoneme": " ",
+"start": 19.9725,
+"end": 20.0074
+},
+{
+"phoneme": "ʔ",
+"start": 20.0074,
+"end": 20.0306
+},
+{
+"phoneme": "a",
+"start": 20.0306,
+"end": 20.0654
+},
+{
+"phoneme": "l",
+"start": 20.0654,
+"end": 20.1235
+},
+{
+"phoneme": "d",
+"start": 20.1235,
+"end": 20.2047
+},
+{
+"phoneme": "ʒ",
+"start": 20.2047,
+"end": 20.2512
+},
+{
+"phoneme": "u",
+"start": 20.2512,
+"end": 20.3092
+},
+{
+"phoneme": "m",
+"start": 20.3092,
+"end": 20.3905
+},
+{
+"phoneme": "ˈ",
+"start": 20.3905,
+"end": 20.4718
+},
+{
+"phoneme": "u",
+"start": 20.4718,
+"end": 20.5414
+},
+{
+"phoneme": "ʕ",
+"start": 20.5414,
+"end": 20.6227
+},
+{
+"phoneme": "a",
+"start": 20.6227,
+"end": 20.7504
+},
+{
+"phoneme": "t",
+"start": 20.7504,
+"end": 20.8433
+},
+{
+"phoneme": ",",
+"start": 20.8433,
+"end": 20.9942
+},
+{
+"phoneme": " ",
+"start": 20.9942,
+"end": 21.3541
+},
+{
+"phoneme": "w",
+"start": 21.3541,
+"end": 21.4586
+},
+{
+"phoneme": "a",
+"start": 21.4586,
+"end": 21.5167
+},
+{
+"phoneme": "m",
+"start": 21.5167,
+"end": 21.5747
+},
+{
+"phoneme": "ˈ",
+"start": 21.5747,
+"end": 21.6212
+},
+{
+"phoneme": "a",
+"start": 21.6212,
+"end": 21.6676
+},
+{
+"phoneme": "d",
+"start": 21.6676,
+"end": 21.7489
+},
+{
+"phoneme": "ʒ",
+"start": 21.7489,
+"end": 21.8069
+},
+{
+"phoneme": "l",
+"start": 21.8069,
+"end": 21.8766
+},
+{
+"phoneme": "i",
+"start": 21.8766,
+"end": 21.9346
+},
+{
+"phoneme": "s",
+"start": 21.9346,
+"end": 22.0275
+},
+{
+"phoneme": "ˌ",
+"start": 22.0275,
+"end": 22.0507
+},
+{
+"phoneme": "u",
+"start": 22.0507,
+"end": 22.0972
+},
+{
+"phoneme": " ",
+"start": 22.0972,
+"end": 22.132
+},
+{
+"phoneme": "ʔ",
+"start": 22.132,
+"end": 22.1552
+},
+{
+"phoneme": "a",
+"start": 22.1552,
+"end": 22.19
+},
+{
+"phoneme": "l",
+"start": 22.19,
+"end": 22.2249
+},
+{
+"phoneme": "ħ",
+"start": 22.2249,
+"end": 22.341
+},
+{
+"phoneme": "ˈ",
+"start": 22.341,
+"end": 22.3874
+},
+{
+"phoneme": "a",
+"start": 22.3874,
+"end": 22.4571
+},
+{
+"phoneme": "i",
+"start": 22.4571,
+"end": 22.5151
+},
+{
+"phoneme": "ː",
+"start": 22.5151,
+"end": 22.5964
+},
+{
+"phoneme": "ˌ",
+"start": 22.5964,
+"end": 22.6312
+},
+{
+"phoneme": "i",
+"start": 22.6312,
+"end": 22.6544
+},
+{
+"phoneme": " ",
+"start": 22.6544,
+"end": 22.7125
+},
+{
+"phoneme": "j",
+"start": 22.7125,
+"end": 22.7705
+},
+{
+"phoneme": "u",
+"start": 22.7705,
+"end": 22.817
+},
+{
+"phoneme": "q",
+"start": 22.817,
+"end": 22.9099
+},
+{
+"phoneme": "ˈ",
+"start": 22.9099,
+"end": 22.9679
+},
+{
+"phoneme": "a",
+"start": 22.9679,
+"end": 23.0956
+},
+{
+"phoneme": "r",
+"start": 23.0956,
+"end": 23.1305
+},
+{
+"phoneme": "r",
+"start": 23.1305,
+"end": 23.1885
+},
+{
+"phoneme": "i",
+"start": 23.1885,
+"end": 23.2582
+},
+{
+"phoneme": "r",
+"start": 23.2582,
+"end": 23.293
+},
+{
+"phoneme": "ˌ",
+"start": 23.293,
+"end": 23.3394
+},
+{
+"phoneme": "u",
+"start": 23.3394,
+"end": 23.3627
+},
+{
+"phoneme": " ",
+"start": 23.3627,
+"end": 23.3975
+},
+{
+"phoneme": "ʔ",
+"start": 23.3975,
+"end": 23.4439
+},
+{
+"phoneme": "ˈ",
+"start": 23.4439,
+"end": 23.4904
+},
+{
+"phoneme": "a",
+"start": 23.4904,
+"end": 23.5716
+},
+{
+"phoneme": "χ",
+"start": 23.5716,
+"end": 23.6413
+},
+{
+"phoneme": "i",
+"start": 23.6413,
+"end": 23.7458
+},
+{
+"phoneme": "ː",
+"start": 23.7458,
+"end": 23.8271
+},
+{
+"phoneme": "r",
+"start": 23.8271,
+"end": 23.8851
+},
+{
+"phoneme": "ˌ",
+"start": 23.8851,
+"end": 23.9199
+},
+{
+"phoneme": "a",
+"start": 23.9199,
+"end": 23.9664
+},
+{
+"phoneme": "n",
+"start": 23.9664,
+"end": 24.0244
+},
+{
+"phoneme": " ",
+"start": 24.0244,
+"end": 24.0825
+},
+{
+"phoneme": "ʔ",
+"start": 24.0825,
+"end": 24.1289
+},
+{
+"phoneme": "ˈ",
+"start": 24.1289,
+"end": 24.1637
+},
+{
+"phoneme": "i",
+"start": 24.1637,
+"end": 24.2334
+},
+{
+"phoneme": "s",
+"start": 24.2334,
+"end": 24.3379
+},
+{
+"phoneme": "̪",
+"start": 24.3379,
+"end": 24.4192
+},
+{
+"phoneme": "l",
+"start": 24.4192,
+"end": 24.4888
+},
+{
+"phoneme": "a",
+"start": 24.4888,
+"end": 24.5817
+},
+{
+"phoneme": "ː",
+"start": 24.5817,
+"end": 24.6165
+},
+{
+"phoneme": "ħ",
+"start": 24.6165,
+"end": 24.7326
+},
+{
+"phoneme": "ˌ",
+"start": 24.7326,
+"end": 24.7675
+},
+{
+"phoneme": "a",
+"start": 24.7675,
+"end": 24.8023
+},
+{
+"phoneme": " ",
+"start": 24.8023,
+"end": 24.8255
+},
+{
+"phoneme": "ʔ",
+"start": 24.8255,
+"end": 24.8603
+},
+{
+"phoneme": "a",
+"start": 24.8603,
+"end": 24.9068
+},
+{
+"phoneme": "d",
+"start": 24.9068,
+"end": 24.93
+},
+{
+"phoneme": "d",
+"start": 24.93,
+"end": 24.988
+},
+{
+"phoneme": "ː",
+"start": 24.988,
+"end": 25.0229
+},
+{
+"phoneme": "ˈ",
+"start": 25.0229,
+"end": 25.0577
+},
+{
+"phoneme": "u",
+"start": 25.0577,
+"end": 25.0925
+},
+{
+"phoneme": "ː",
+"start": 25.0925,
+"end": 25.139
+},
+{
+"phoneme": "a",
+"start": 25.139,
+"end": 25.2319
+},
+{
+"phoneme": "ː",
+"start": 25.2319,
+"end": 25.3247
+},
+{
+"phoneme": "r",
+"start": 25.3247,
+"end": 25.3712
+},
+{
+"phoneme": "ˌ",
+"start": 25.3712,
+"end": 25.406
+},
+{
+"phoneme": "i",
+"start": 25.406,
+"end": 25.4408
+},
+{
+"phoneme": " ",
+"start": 25.4408,
+"end": 25.4757
+},
+{
+"phoneme": "ʔ",
+"start": 25.4757,
+"end": 25.5105
+},
+{
+"phoneme": "a",
+"start": 25.5105,
+"end": 25.5685
+},
+{
+"phoneme": "l",
+"start": 25.5685,
+"end": 25.6034
+},
+{
+"phoneme": "q",
+"start": 25.6034,
+"end": 25.7079
+},
+{
+"phoneme": "ˈ",
+"start": 25.7079,
+"end": 25.7775
+},
+{
+"phoneme": "a",
+"start": 25.7775,
+"end": 25.8472
+},
+{
+"phoneme": "d",
+"start": 25.8472,
+"end": 25.9168
+},
+{
+"phoneme": "i",
+"start": 25.9168,
+"end": 25.9981
+},
+{
+"phoneme": "ː",
+"start": 25.9981,
+"end": 26.0562
+},
+{
+"phoneme": "m",
+"start": 26.0562,
+"end": 26.1607
+},
+{
+"phoneme": "ˌ",
+"start": 26.1607,
+"end": 26.2419
+},
+{
+"phoneme": "i",
+"start": 26.2419,
+"end": 26.2768
+},
+{
+"phoneme": ".",
+"start": 26.2768,
+"end": 26.3464
+},
+{
+"phoneme": "$",
+"start": 26.3464,
+"end": 26.3696
+},
+{
+"phoneme": " ",
+"start": 26.3696,
+"end": 26.7196
+},
+{
+"phoneme": "^",
+"start": 26.7196,
+"end": 26.8125
+},
+{
+"phoneme": "n",
+"start": 26.8125,
+"end": 26.8938
+},
+{
+"phoneme": "ˈ",
+"start": 26.8938,
+"end": 26.9286
+},
+{
+"phoneme": "a",
+"start": 26.9286,
+"end": 27.0447
+},
+{
+"phoneme": "b",
+"start": 27.0447,
+"end": 27.1376
+},
+{
+"phoneme": "d",
+"start": 27.1376,
+"end": 27.184
+},
+{
+"phoneme": "a",
+"start": 27.184,
+"end": 27.2188
+},
+{
+"phoneme": "ʔ",
+"start": 27.2188,
+"end": 27.2653
+},
+{
+"phoneme": "ˌ",
+"start": 27.2653,
+"end": 27.3233
+},
+{
+"phoneme": "u",
+"start": 27.3233,
+"end": 27.3582
+},
+{
+"phoneme": " ",
+"start": 27.3582,
+"end": 27.393
+},
+{
+"phoneme": "b",
+"start": 27.393,
+"end": 27.4278
+},
+{
+"phoneme": "i",
+"start": 27.4278,
+"end": 27.4743
+},
+{
+"phoneme": "a",
+"start": 27.4743,
+"end": 27.4975
+},
+{
+"phoneme": "ː",
+"start": 27.4975,
+"end": 27.5323
+},
+{
+"phoneme": "t",
+"start": 27.5323,
+"end": 27.6252
+},
+{
+"phoneme": "̪",
+"start": 27.6252,
+"end": 27.66
+},
+{
+"phoneme": "ː",
+"start": 27.66,
+"end": 27.6832
+},
+{
+"phoneme": "ˈ",
+"start": 27.6832,
+"end": 27.7065
+},
+{
+"phoneme": "a",
+"start": 27.7065,
+"end": 27.7297
+},
+{
+"phoneme": ".",
+"start": 27.7297,
+"end": 27.7877
+},
+{
+"phoneme": "q",
+"start": 27.7877,
+"end": 27.8922
+},
+{
+"phoneme": "s",
+"start": 27.8922,
+"end": 27.9735
+},
+{
+"phoneme": "i",
+"start": 27.9735,
+"end": 28.0548
+},
+{
+"phoneme": ".",
+"start": 28.0548,
+"end": 28.1593
+},
+{
+"phoneme": "$",
+"start": 28.1593,
+"end": 28.1825
+},
+{
+"phoneme": " ",
+"start": 28.1824,
+"end": 28.5324
+}
+]

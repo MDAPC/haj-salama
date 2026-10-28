@@ -1,0 +1,57 @@
+[
+  {
+    "file": "assets/studio/bg_majlis.png",
+    "pos": [
+      0,
+      0
+    ]
+  },
+  {
+    "figure": "assets/haj_salama",
+    "image": "source.png",
+    "pos": [
+      702,
+      50
+    ],
+    "scale": 0.5
+  },
+  {
+    "file": "assets/studio/logo.png",
+    "pos": [
+      80,
+      40
+    ]
+  },
+  {
+    "file": "assets/studio/lower_third.png",
+    "role": "lower_third",
+    "pos": [
+      60,
+      860
+    ],
+    "align": "left"
+  },
+  {
+    "file": "assets/studio/ticker_bar.png",
+    "pos": [
+      0,
+      1010
+    ]
+  },
+  {
+    "file": "assets/studio/ticker_text.png",
+    "pos": [
+      1730,
+      1010
+    ],
+    "align": "right",
+    "role": "ticker"
+  },
+  {
+    "file": "assets/studio/ticker_tag.png",
+    "pos": [
+      1730,
+      1015
+    ]
+  }
+]

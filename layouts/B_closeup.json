@@ -1,0 +1,57 @@
+[
+  {
+    "file": "assets/studio/bg_studio_close.png",
+    "pos": [
+      0,
+      0
+    ]
+  },
+  {
+    "figure": "assets/haj_salama",
+    "image": "figure_nosmoke.png",
+    "pos": [
+      -270,
+      -380
+    ],
+    "scale": 1.0
+  },
+  {
+    "file": "assets/studio/logo.png",
+    "pos": [
+      1460,
+      40
+    ]
+  },
+  {
+    "file": "assets/studio/lower_third.png",
+    "role": "lower_third",
+    "pos": [
+      1860,
+      860
+    ],
+    "align": "right"
+  },
+  {
+    "file": "assets/studio/ticker_bar.png",
+    "pos": [
+      0,
+      1010
+    ]
+  },
+  {
+    "file": "assets/studio/ticker_text.png",
+    "pos": [
+      1730,
+      1010
+    ],
+    "align": "right",
+    "role": "ticker"
+  },
+  {
+    "file": "assets/studio/ticker_tag.png",
+    "pos": [
+      1730,
+      1015
+    ]
+  }
+]
