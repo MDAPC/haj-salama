@@ -95,6 +95,7 @@ def main():
     p.add_argument("--lead", type=float, default=0.04)
     a = p.parse_args()
     out = Path(a.out)
+    out.mkdir(parents=True, exist_ok=True)
     audio, sr, phon = synthesize(a.model, Path(a.transcript).read_text(encoding="utf-8"), a.silence)
     with wave.open(str(out / "voice.wav"), "wb") as w:
         w.setnchannels(1)

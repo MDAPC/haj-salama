@@ -29,3 +29,6 @@ assets/haj_salama/veo/*_mirrored_original.mp4
 Thumbs.db
 .idea/
 .vscode/
+
+# CI scratch output
+ci/

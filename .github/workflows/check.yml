@@ -1,0 +1,46 @@
+name: check
+# Does the pipeline install and run on Windows and Linux? Everything except the Blender render runs
+# on GitHub's machines; the render step needs a GPU (Eevee), so it is tried but may fail there.
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  pipeline:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [windows-latest, ubuntu-latest]
+    runs-on: ${{ matrix.os }}
+    env:
+      PYTHONUTF8: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: ffmpeg
+        uses: FedericoCarboni/setup-ffmpeg@v3
+      - name: Python packages
+        run: python -m pip install -r requirements.txt
+      - name: Compile every script
+        run: python -m compileall -q anchor.py tools
+      - name: Models, voices, Rhubarb, Blender
+        run: python tools/setup.py --blender
+        continue-on-error: true   # the check at the end reports what is missing
+      - name: Setup check
+        run: python tools/setup.py --check
+      - name: Arabic speech with phoneme timings (Piper)
+        run: python tools/tts_align.py .tools/piper-voices/ar_JO-kareem-medium.onnx episodes/ar01/transcript.txt ci/tts
+      - name: Rhubarb on a recorded voice
+        run: python -c "import sys, subprocess; sys.path.insert(0, 'tools'); import toolpaths; subprocess.run([toolpaths.rhubarb(), '-q', '-f', 'json', '--recognizer', 'phonetic', '-o', 'ci/rhubarb.json', 'episodes/test01/voice.wav'], check=True)"
+      - name: Face and body trace (MediaPipe)
+        run: python tools/capture/trace_face.py assets/haj_salama/veo/veo06_both.mp4 ci/trace.json --body --dur 3
+      - name: Veo gesture library and pool
+        run: |
+          python tools/capture/veo_library.py assets/haj_salama/veo/veo06_both.mp4 assets/haj_salama/veo/veo06_both_trace.json assets/haj_salama/refs/stand01.png assets/haj_relief/stand01 ci/lib_test
+          python tools/capture/veo_pool.py ci/pool assets/haj_relief/stand01 ci/lib_test
+      - name: Blender render, 5 frames (needs a GPU; may fail on CI)
+        run: python anchor.py episodes/ar01 --lang ar --relief assets/haj_relief/ref10 --frames 5
+        continue-on-error: true
